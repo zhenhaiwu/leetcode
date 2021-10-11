@@ -1,7 +1,7 @@
 public class LinkedQueue {
-    public static void main(String[] args){
+/*    public static void main(String[] args){
         hasCycle(null);
-    }
+    }*/
 
     public static void hasCycle(ListNode head){
         Node node = new Node("hello");
